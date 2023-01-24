@@ -1,8 +1,8 @@
 <img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
 
-## Codelab 🧪 Implementing REST API Service
+## Codelab 🧪 Implementing a REST API Service
 
-Build a REST API for a Task PLanner, implementing each CRUD Operation:
+Build a REST API for a Tasks Planner Service, implementing each CRUD Operation with Pagination:
 
 - Create
 - Read
