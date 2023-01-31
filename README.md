@@ -2,7 +2,8 @@
 
 ## Codelab 🧪 Implementing a REST API Service
 
-Build a REST API for a Tasks Planner Service, implementing each CRUD Operation with Pagination:
+Implement different REST API Services to support a store products management system, implementing each CRUD Operation
+with Pagination for each service (Users and Products):
 
 - Create
 - Read
